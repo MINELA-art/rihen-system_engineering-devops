@@ -1,0 +1,3 @@
+#!/bin/bash
+Result=$(expr 128 + $var_globale)
+echo $Result
